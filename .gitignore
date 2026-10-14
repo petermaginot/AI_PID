@@ -1,0 +1,14 @@
+# Working material that must not be published: client P&IDs, site tags.
+private/
+
+__pycache__/
+*.py[cod]
+
+# draw.io desktop backups and temp files
+*.drawio.bkp
+*.drawio.dtmp
+.$*
+
+.vs/
+.idea/
+.DS_Store

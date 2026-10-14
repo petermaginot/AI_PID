@@ -1,0 +1,12 @@
+{
+  "name": "ai-pid",
+  "version": "0.1.0",
+  "description": "Skill and symbol library for an AI agent that draws P&IDs as hand-editable draw.io files: seeds the diagram from a symbol catalogue with connectors glued to ports, patches it by cell ID without disturbing hand edits, and exports PDF/SVG/PNG with the draw.io CLI.",
+  "author": {
+    "name": "Peter Maginot"
+  },
+  "homepage": "https://github.com/petermaginot/AI_PID",
+  "repository": "https://github.com/petermaginot/AI_PID",
+  "license": "MIT",
+  "keywords": ["p&id", "pid", "drawio", "diagrams.net", "piping", "instrumentation"]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ai-pid",
+  "owner": {
+    "name": "Peter Maginot"
+  },
+  "metadata": {
+    "description": "AI-agent skill for P&IDs as hand-editable draw.io files."
+  },
+  "plugins": [
+    {
+      "name": "ai-pid",
+      "source": "./",
+      "description": "Draw and revise P&IDs as draw.io files with a reusable house-style symbol library, glued connectors, crossing gaps, ID-based patches and CLI export."
+    }
+  ]
+}
